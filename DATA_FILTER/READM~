@@ -1,4 +1,0 @@
-WordCount -> comptage de mots
-WordSort -> trier les données selon leurs fréquences
-WordFilter -> Filtrer les données à partir d'un seuil donné en argument
-TopKWord ->
